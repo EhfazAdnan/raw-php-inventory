@@ -10,7 +10,7 @@
 <body>
     
     <div class="jumbotron">
-       <h1>Hello World</h1>
+       <h1>Inventory System</h1>
     </div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
